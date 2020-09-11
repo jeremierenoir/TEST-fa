@@ -1,0 +1,19 @@
+{
+  "name": "test-fa",
+  "version": "1.0.0",
+  "description": "Tests around FA &amp; Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremierenoir/TEST-fa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremierenoir/TEST-fa/issues"
+  },
+  "homepage": "https://github.com/jeremierenoir/TEST-fa#readme"
+}
